@@ -1,0 +1,124 @@
+body{
+    width: 1000px;
+    height: auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.child1{
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    text-align: left;
+   
+}
+.child2{
+    font-family: Montserrat;
+font-size: 12px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 1px;
+text-align: right;
+
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    box-sizing: content-box;
+}
+.child{
+    border-top: solid;
+    width: 490px;
+    height: auto;
+   
+}
+.item{
+    width: auto;
+    font-weight: 600;
+    size: 15px;
+    justify-content: space-between;
+}
+.item1{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.item3{
+    display: flex;
+    justify-content: space-between;
+}
+.item4{
+    display: flex;
+    justify-content: space-between;
+}
+.item5{
+    display: flex;
+    justify-content: space-between;
+
+}
+.item7{
+    display: flex;
+    justify-content: space-between;
+}
+.item8{
+    display: flex;
+    justify-content: space-between;
+
+}
+.container2{
+    border-top: solid;
+    width: 100%;
+    border-bottom: solid;
+}
+.child3{
+
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    width: 100%;
+    border-top: solid;
+}
+.child4{
+    border-top: solid;
+    width: 100%;
+}
+.child5{
+    width: 100%;
+    font-size: 12px;
+}
+.child6{
+    border-top: solid;
+    width: 100%;
+}
+.child7{
+    line-height: 14px;
+}
+.child8{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.child9{
+    width:200px;
+    height: 20px;
+    border-top: solid;
+    display: flex;
+    justify-content: space-between;
+}
+.child10{
+    display: flex;
+    justify-content: space-between;
+}
