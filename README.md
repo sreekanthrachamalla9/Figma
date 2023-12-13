@@ -1,1 +1,1 @@
-# Figmaa
+# Figma
